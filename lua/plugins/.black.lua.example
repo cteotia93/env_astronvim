@@ -1,0 +1,7 @@
+-- lua/plugins/black.lua
+return {
+        'averms/black-nvim',
+        config = function()
+        vim.cmd("autocmd BufWritePre *.py execute ':Black'")
+        end
+    }
