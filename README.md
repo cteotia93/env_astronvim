@@ -1,2 +1,2 @@
 # env_astronvim
-This repository is to store my astronvim environment
+This repository contains configuration for neovim in astronvim environment.
